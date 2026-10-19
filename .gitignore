@@ -1,0 +1,30 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor / Python cache
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+
+# Large modeling source files: keep externally unless deliberately versioned
+*.[sS][kK][pP]
+*.[sS][kK][bB]
+*.[3][dD][mM]
+*.[dD][wW][gG]
+*.[dD][wW][lL]
+*.[dD][wW][lL]2
+*.[rR][vV][tT]
+*.[rR][fF][aA]
+*.blend
+*.blend1
+
+# Generated or temporary outputs
+render-cache/
+tmp/
+*.tmp
+*.bak
