@@ -36,3 +36,7 @@
 ## 当前状态
 
 2026-10-19 建立基础目录与模板。模板中的空白表示尚未记录；不代表已经完成学习或实验。
+
+## 可复用 AI 设计分析资源
+
+- [AI Analysis Diagram Factory 本地调用说明](resources/ai-analysis-diagram-factory/LOCAL_USAGE.md)：建筑、景观、城市设计分析图提示词库，包含建筑爆炸轴测图模板、评分规则、案例记录脚本与模板维护流程。
