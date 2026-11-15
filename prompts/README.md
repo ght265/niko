@@ -4,6 +4,12 @@
 
 起点：[固定草模形体的渲染提示词](model-locked-render.md)。
 
+## 常用提示词快捷入口
+
+- [**通用照片视觉分析板 V2.0**](image-generation/Universal_Photo_Visual_Analysis_System_V2.md)：上传任意照片，生成 16:9 横版专业视觉分析图（七个模块、双语反推提示词；待多题材实测）。
+- [图片生成类提示词目录](image-generation/README.md)：建筑可视化、艺术风格等其他模板。
+
+
 ## 每次实验附上
 
 - 日期、任务、工具及模型版本（不知道时写“未记录”）。
