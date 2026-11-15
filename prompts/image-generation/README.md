@@ -4,6 +4,7 @@
 
 ## 本仓库的可复用提示词
 
+- [**Universal Photo Visual Analysis System V2.0｜通用摄影视觉分析板**](Universal_Photo_Visual_Analysis_System_V2.md)：上传任意参考照片，生成 16:9 中文专业视觉信息图；含主体标注、关键词、构图机位、细节、光影、六色配色与双语反推提示词，附快速调用及核验须知（待系统实测）。
 - [MIR 自然主义建筑可视化 · Lingnan Edition V1](MIR_Natural_Architecture_Lingnan_V1.md)：针对 D5 建筑效果图深化，包含几何锁定、真实材质、岭南场景、三种机位、三种光照氛围和多机位风格统一规则（待实测）。
 
 ## 精选 GitHub 仓库
