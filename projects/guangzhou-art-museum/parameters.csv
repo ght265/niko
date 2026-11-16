@@ -1,0 +1,16 @@
+parameter_id,name,value,unit,status,source_id,locator,owner,reviewed_by,applies_to
+site_boundary,用地边界坐标表,,,待补充,SRC-01,,,,G1
+source_crs,CAD坐标参考系,,,待补充,SRC-01,,,,G1
+cad_unit,CAD源图单位,,,待补充,SRC-01,,,,G1
+vertical_datum,高程基准,,,待补充,SRC-02,,,,G1
+site_area,用地面积,,m2,待补充,SRC-01,,,,G1
+setbacks,退界控制线或分段值,,,待补充,SRC-05,,,,G2
+height_limit,建筑限高,,m,待补充,SRC-05,,,,G2
+gross_floor_area,总建筑面积,,m2,待补充,SRC-05,,,,G2
+floor_count,层数,,count,待补充,SRC-06,,,,G2
+floor_levels,分层标高表,,mm,待补充,SRC-06,,,,G2
+program_schedule,功能及面积表,,,待补充,SRC-06,,,,G2
+massing_height,体量高度,,mm,待补充,SRC-06,,,,G3
+grid_and_spans,柱网与跨度表,,,待补充,SRC-06,,,,G3
+envelope_and_openings,墙板屋面及洞口表,,,待补充,SRC-06,,,,G3
+geometry_tolerance,几何校核容差,,mm,待补充,SRC-07,,,,G3
